@@ -33,3 +33,5 @@ U|  _"\ u   \ \ / /  |_ " _|   |'| |'|      \/"_ \/  | \ |"|
 
 (♥_♥) (♥_♥) (♥_♥) (♥_♥) (♥_♥) (♥_♥) (♥_♥) (♥_♥) (♥_♥) (♥_♥) 
 ```
+
+See the [notebook](fivelines.ipynb) for the lightning talks!
